@@ -1,3 +1,3 @@
-module example/user/hello
+module teste
 
-go 1.20
+go 1.19
