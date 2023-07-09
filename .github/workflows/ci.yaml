@@ -13,4 +13,4 @@ jobs:
       - name: Run go test
         run: go test -v ./...
       - name: Running go
-        run: go run main.go
+        run: go run math.go
