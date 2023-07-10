@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func math() {
 	fmt.Println(soma(112, 10))
 }
 
